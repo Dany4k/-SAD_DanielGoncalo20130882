@@ -24,5 +24,5 @@ if(st[0] == "]"):
 if(st[0] == "}"):
 	print("0") 
 
-#Para verificar que está correcto basta verificar que existe um "1" no output final. Caso o output seja apenas composto por "0" alguma das condições
-#não é cumprida!
+#Para verificar que está correcto basta verificar que existe um "1" no output final. 
+#Caso o output seja apenas composto por "0" alguma das condições não é cumprida!
