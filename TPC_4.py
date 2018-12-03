@@ -18,7 +18,7 @@ print("predict:",res[res!=classes_test])
 
 ok_features=features_test[res==classes_test,:][:2]
 #Bons Resultados
-print("Resultados bem classificados:")
+print("Bons Resultados:")
 print("actual: ",classes_test[res!=classes_test])
 print("predict:",res[res!=classes_test])
 plt.figure()
